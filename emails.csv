@@ -1,0 +1,41 @@
+text,label
+"Your account has been locked. Verify your password immediately at this link.",phishing
+"Congratulations, you won a cash prize. Claim it by entering your bank details.",phishing
+"Urgent: Your mailbox is full. Sign in here to avoid losing access.",phishing
+"Your package delivery failed. Pay a small fee using this link.",phishing
+"Unusual activity detected. Confirm your account information now.",phishing
+"Your subscription expires today. Update payment details to continue.",phishing
+"Click here to receive your tax refund. Provide your account number.",phishing
+"Your invoice is overdue. Open the attachment and enable macros.",phishing
+"Your payroll details need confirmation. Log in through this unfamiliar page.",phishing
+"Final warning: Your account will be deleted unless you verify now.",phishing
+"Please enter your email password to view the attached document.",phishing
+"Your bank account is suspended. Share the OTP to restore access.",phishing
+"Exclusive offer. Pay now to receive a free gift.",phishing
+"Your cloud storage is full. Sign in to prevent file deletion.",phishing
+"We noticed a payment problem. Update your card details here.",phishing
+"Your password expires today. Use this link to keep your account active.",phishing
+"Confirm your identity to receive the pending transfer.",phishing
+"Your order is on hold. Pay the customs fee immediately.",phishing
+"Send your one-time code to complete verification.",phishing
+"Claim your reward by submitting personal information.",phishing
+"Please find the meeting agenda attached for tomorrow's review.",legitimate
+"Your library book is due next Monday. You can renew it from your account.",legitimate
+"Hi team, the project review is scheduled for 3 PM on Thursday.",legitimate
+"Your monthly electricity bill is available in the customer portal.",legitimate
+"Thanks for attending the workshop. The slides are attached.",legitimate
+"Your order has shipped. Track it from the official app.",legitimate
+"Reminder: Your appointment is at 10 AM tomorrow.",legitimate
+"Please submit the assignment before Friday's deadline.",legitimate
+"The department meeting minutes are in the shared folder.",legitimate
+"Your password was changed successfully. Contact support if this was not you.",legitimate
+"Attached is the receipt for your recent purchase.",legitimate
+"Your train ticket booking is confirmed in your account.",legitimate
+"Can we move our call to 11:30 AM tomorrow?",legitimate
+"The annual report is ready for review. Please share feedback.",legitimate
+"Your course certificate is available from the learning portal.",legitimate
+"Thank you for your application. We will contact you about next steps.",legitimate
+"Your requested password reset link was sent.",legitimate
+"Please check the updated timetable on the college website.",legitimate
+"Maintenance is planned for Sunday between 1 AM and 3 AM.",legitimate
+"Your payment was received successfully. Thank you.",legitimate
