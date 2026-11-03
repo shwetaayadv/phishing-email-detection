@@ -5,7 +5,7 @@ from train_model import train_model
 
 ROOT = Path(__file__).resolve().parent
 MODEL_PATH = ROOT / "model.joblib"
-
+ 
 st.set_page_config(page_title="Phishing Email Detection", page_icon="🛡️")
 st.title("Phishing Email Detection")
 st.write("A beginner NLP and machine-learning application that classifies email text as phishing or legitimate.")
