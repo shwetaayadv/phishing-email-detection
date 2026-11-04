@@ -1,6 +1,7 @@
+
 text,label
 "Your account has been locked. Verify your password immediately at this link.",phishing
-"Congratulations, you won a cash prize. Claim it by entering your bank details.",phishing 
+"Congratulations, you won a cash prize. Claim it by entering your bank details.",phishing
 "Urgent: Your mailbox is full. Sign in here to avoid losing access.",phishing
 "Your package delivery failed. Pay a small fee using this link.",phishing
 "Unusual activity detected. Confirm your account information now.",phishing
@@ -39,3 +40,4 @@ text,label
 "Please check the updated timetable on the college website.",legitimate
 "Maintenance is planned for Sunday between 1 AM and 3 AM.",legitimate
 "Your payment was received successfully. Thank you.",legitimate
+
